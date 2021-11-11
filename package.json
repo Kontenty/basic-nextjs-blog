@@ -1,5 +1,11 @@
 {
-  "name": "learn-starter",
+  "name": "basic-nextjs-blog",
+  "author": "Konrad Gorski",
+  "keywords": [
+    "nextjs",
+    "react",
+    "ssr"
+  ],
   "version": "0.1.0",
   "private": true,
   "scripts": {
